@@ -1,6 +1,20 @@
 Web Development Internship - Codsoft Technologies
 
+Name : PRATIK PANDA
 
+Company: CODSOFT
+
+ID:ID:CS24NY334016
+
+Domain:WEB DEVELOPMENT
+
+Project Title: Calculator
+
+Technologies Used: HTML, CSS, JavaScript
+
+Duration: 5 November 2024 to 5 December 2024
+
+Project Link: (https://github.com/Pratikp328/CODSOFT-WEB-DEVELOPMENT-PROJECT-)
 
 
 
